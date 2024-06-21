@@ -1,0 +1,59 @@
+
+[
+    {
+        "id":1,
+        "name":"Design1",
+        "describtion":"It is a long established fact that a reader will be distracted .",
+        "price":100,
+        "category":"western",
+        "image":"public/tailor_website/shirt5.png"
+       }, 
+   {
+    "id":2,
+    "name":"Design2",
+    "describtion":"It is a long established fact that a reader will be distracted .",
+    "price":50,
+    "category":"Indian",
+    "image":"public/tailor_website/shirt6.png"
+   },
+   {
+    "id":3,
+    "name":"Design1",
+    "describtion":"It is a long established fact that a reader will be distracted.",
+    "price":100,
+    "category":"western",
+    "image":"public/tailor_website/shirt3.png"
+   },
+   {
+    "id":4,
+    "name":"Design1",
+    "describtion":"It is a long established fact that a reader will be distracted .",
+    "price":100,
+    "category":"western",
+    "image":"public/tailor_website/shirt2.png"
+   },
+   {
+    "id":5,
+    "name":"Design1",
+    "describtion":"It is a long established fact that a reader will be distracted .",
+    "price":50,
+    "category":"Indian",
+    "image":"public/tailor_website/shirt1.png"
+   },
+   {
+    "id":6,
+    "name":"Design1",
+    "describtion":"It is a long established fact that a reader will be distracted .",
+    "price":100,
+    "category":"western",
+    "image":"public/tailor_website/shirt6.png"
+   },
+   {
+    "id":7,
+    "name":"Design1",
+    "describtion":"It is a long established fact that a reader will be distracted .",
+    "price":100,
+    "category":"western",
+    "image":"public/tailor_website/shirt1.png"
+   }
+]
